@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardView /> renders correctly 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-wqbum7-MuiPaper-root-MuiCard-root"
+      >
+        <div
+          class="MuiBox-root css-1sm2s1z"
+        >
+          <div
+            class="MuiBox-root css-1rr4qq7"
+          >
+            <button
+              class="MuiButtonBase-root MuiCardActionArea-root css-1iwc3gj-MuiButtonBase-root-MuiCardActionArea-root"
+              tabindex="0"
+              type="button"
+            >
+              <div
+                class="MuiBox-root css-4rmlxi"
+              >
+                <div
+                  class="MuiCardContent-root css-1qf7ogf-MuiCardContent-root"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                  >
+                    Firefox
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                  >
+                    A web browser
+                  </p>
+                  <div
+                    class="MuiBox-root css-13brihr"
+                  />
+                </div>
+              </div>
+              <span
+                class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+              />
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing css-1a42o16-MuiCardActions-root"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              package.more_info
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-wqbum7-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        class="MuiBox-root css-1sm2s1z"
+      >
+        <div
+          class="MuiBox-root css-1rr4qq7"
+        >
+          <button
+            class="MuiButtonBase-root MuiCardActionArea-root css-1iwc3gj-MuiButtonBase-root-MuiCardActionArea-root"
+            tabindex="0"
+            type="button"
+          >
+            <div
+              class="MuiBox-root css-4rmlxi"
+            >
+              <div
+                class="MuiCardContent-root css-1qf7ogf-MuiCardContent-root"
+              >
+                <h6
+                  class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                >
+                  Firefox
+                </h6>
+                <p
+                  class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                >
+                  A web browser
+                </p>
+                <div
+                  class="MuiBox-root css-13brihr"
+                />
+              </div>
+            </div>
+            <span
+              class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+            />
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing css-1a42o16-MuiCardActions-root"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="button"
+          >
+            package.more_info
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

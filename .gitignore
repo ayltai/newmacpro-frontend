@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+[Dd]esktop.ini
+
+# JetBrains
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# NodeJS
+node_modules/
+
+# Vercel
+.vercel/
+
+# Testing
+coverage/
+
+# Secrets
+.env
+
+# Generated
+build/
+*.log

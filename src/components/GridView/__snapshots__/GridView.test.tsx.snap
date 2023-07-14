@@ -1,0 +1,1504 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridView /> renders correctly 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiBox-root css-0"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded MuiAccordion-gutters css-1tkc62k-MuiPaper-root-MuiAccordion-root"
+        >
+          <div
+            aria-expanded="false"
+            class="MuiButtonBase-root MuiAccordionSummary-root MuiAccordionSummary-gutters css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="MuiAccordionSummary-content MuiAccordionSummary-contentGutters css-o4b71y-MuiAccordionSummary-content"
+            >
+              <div
+                class="MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-spacing-xs-2 css-1psjskm-MuiGrid2-root"
+              >
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-1.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (1)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-2.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (2)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-3.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (3)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-4.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (4)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-1.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (5)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-2.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (6)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-3.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (7)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-4.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (8)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-1.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (9)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+                >
+                  <div
+                    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                  >
+                    <div
+                      class="MuiBox-root css-1sm2s1z"
+                    >
+                      <div
+                        class="MuiBox-root css-1rr4qq7"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          <div
+                            class="MuiBox-root css-4rmlxi"
+                          >
+                            <img
+                              class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                              src="/images/newmac-2.webp"
+                              title="NewMac.Pro"
+                            />
+                            <div
+                              class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                            >
+                              <h6
+                                class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                              >
+                                Firefox (10)
+                              </h6>
+                              <p
+                                class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                              >
+                                A web browser
+                              </p>
+                              <div
+                                class="MuiBox-root css-13brihr"
+                              />
+                            </div>
+                          </div>
+                          <span
+                            class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                          />
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                      <div
+                        class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                      >
+                        <button
+                          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                          tabindex="0"
+                          type="button"
+                        >
+                          package.more_info
+                          <span
+                            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                          />
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiCollapse-root MuiCollapse-vertical MuiCollapse-hidden css-bz4dnt-MuiCollapse-root"
+            style="min-height: 0px;"
+          >
+            <div
+              class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+            >
+              <div
+                class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+              >
+                <div
+                  class="MuiAccordion-region"
+                  role="region"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiBox-root css-0"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded MuiAccordion-gutters css-1tkc62k-MuiPaper-root-MuiAccordion-root"
+      >
+        <div
+          aria-expanded="false"
+          class="MuiButtonBase-root MuiAccordionSummary-root MuiAccordionSummary-gutters css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root"
+          role="button"
+          tabindex="0"
+        >
+          <div
+            class="MuiAccordionSummary-content MuiAccordionSummary-contentGutters css-o4b71y-MuiAccordionSummary-content"
+          >
+            <div
+              class="MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-spacing-xs-2 css-1psjskm-MuiGrid2-root"
+            >
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-1.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (1)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-2.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (2)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-3.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (3)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-4.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (4)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-1.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (5)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-2.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (6)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-3.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (7)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-4.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (8)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-1.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (9)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 MuiGrid2-grid-sm-6 MuiGrid2-grid-md-4 MuiGrid2-grid-lg-3 css-12xj993-MuiGrid2-root"
+              >
+                <div
+                  class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-be94ls-MuiPaper-root-MuiCard-root"
+                >
+                  <div
+                    class="MuiBox-root css-1sm2s1z"
+                  >
+                    <div
+                      class="MuiBox-root css-1rr4qq7"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiCardActionArea-root css-10pclym-MuiButtonBase-root-MuiCardActionArea-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        <div
+                          class="MuiBox-root css-4rmlxi"
+                        >
+                          <img
+                            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1mljf8p-MuiCardMedia-root"
+                            src="/images/newmac-2.webp"
+                            title="NewMac.Pro"
+                          />
+                          <div
+                            class="MuiCardContent-root css-1qk9xnj-MuiCardContent-root"
+                          >
+                            <h6
+                              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1ywgf30-MuiTypography-root"
+                            >
+                              Firefox (10)
+                            </h6>
+                            <p
+                              class="MuiTypography-root MuiTypography-body1 css-1qnobji-MuiTypography-root"
+                            >
+                              A web browser
+                            </p>
+                            <div
+                              class="MuiBox-root css-13brihr"
+                            />
+                          </div>
+                        </div>
+                        <span
+                          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+                        />
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                    <div
+                      class="MuiCardActions-root MuiCardActions-spacing css-11leuus-MuiCardActions-root"
+                    >
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textInfo MuiButton-sizeSmall MuiButton-textSizeSmall css-1ujgr8z-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="button"
+                      >
+                        package.more_info
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiCollapse-root MuiCollapse-vertical MuiCollapse-hidden css-bz4dnt-MuiCollapse-root"
+          style="min-height: 0px;"
+        >
+          <div
+            class="MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper"
+          >
+            <div
+              class="MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner"
+            >
+              <div
+                class="MuiAccordion-region"
+                role="region"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
